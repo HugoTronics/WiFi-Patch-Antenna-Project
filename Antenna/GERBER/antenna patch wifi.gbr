@@ -1,0 +1,47 @@
+G04 =======================================* 
+G04 File Format: RS-274X * 
+G04 Date:        November 03 2024 * 
+G04 Time:        19:12:17 * 
+G04 =======================================* 
+G04 Format description *** 
+G04 Code:          ASCII * 
+G04 Unit:          Millimeter * 
+G04 Coordinates:   Absolut * 
+G04 Digits:        3.3-format * 
+G04 Zeros skipped: Leading zeros omitted * 
+G04 =======================================* 
+%FSLAX33Y33*%
+%MOMM*%
+G90*
+G71*
+%LPD*%
+G36*
+G01X15400Y39550D02*
+G01X-46200Y39550D01*
+G01X-46200Y-36450D01*
+G01X15400Y-36450D01*
+G37*
+%LPD*%
+G36*
+G01X-30800Y-17450D02*
+G01X0Y-17450D01*
+G01X0Y-500D01*
+G01X-7700Y-500D01*
+G01X-7700Y0D01*
+G01X0Y0D01*
+G01X0Y3100D01*
+G01X-7700Y3100D01*
+G01X-7700Y3600D01*
+G01X0Y3600D01*
+G01X0Y20550D01*
+G01X-30800Y20550D01*
+G37*
+%LPD*%
+G36*
+G01X0Y0D02*
+G01X15400Y0D01*
+G01X15400Y3100D01*
+G01X0Y3100D01*
+G37*
+M02* 
+G04 End Of Gerber File* 
