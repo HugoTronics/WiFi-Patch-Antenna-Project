@@ -1,4 +1,3 @@
-```markdown
 # Building a High-Performance Wi-Fi Patch Antenna
 
 <p align="center">
@@ -126,4 +125,3 @@ For questions or support, please open an issue on this GitHub repository or cont
 - [CST Studio Documentation](https://www.3ds.com/products-services/simulia/products/cst-studio-suite/)
 
 ---
-```
