@@ -24,7 +24,7 @@ This repository contains resources for building a Wi-Fi patch antenna designed t
 For a detailed walkthrough of the project, including step-by-step design, simulation, and testing of the Wi-Fi patch antenna, check out the full article:
 
 <p align="center">
-    <a href="https://hugotronics.github.io/diy-high-performance-wifi-patch-antenna/" target="_blank">
+    <a href="https://hugotronics.github.io/diy-building-a-high-performance-wi-fi-patch-antenna-to-boost-your-connection/" target="_blank">
         <img src="https://img.shields.io/badge/Read%20the%20Full%20Article-%230084ff.svg?style=for-the-badge&logo=read-the-docs" alt="Read the Full Article">
     </a>
 </p>
