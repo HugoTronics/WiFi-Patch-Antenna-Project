@@ -17,6 +17,8 @@ This repository contains resources for building a Wi-Fi patch antenna designed t
 - **STL Files**: 3D models for printing the antenna enclosure.
 - **Simulation Files**: Data and configurations from CST Studio used to optimize the antenna design.
 
+![cnc drill gif](https://github.com/user-attachments/assets/9a952ab5-ee59-4765-9632-6e710cda49a1)
+
 ---
 
 ## :link: Explore the Full Project
