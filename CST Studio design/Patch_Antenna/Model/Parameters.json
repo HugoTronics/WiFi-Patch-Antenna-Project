@@ -1,0 +1,60 @@
+{
+    "parameters": [
+        {
+            "expr": "61.6",
+            "name": "SL",
+            "value": "61.6"
+        },
+        {
+            "expr": "76",
+            "name": "SW",
+            "value": "76"
+        },
+        {
+            "expr": "1.6",
+            "name": "SH",
+            "value": "1.6"
+        },
+        {
+            "expr": "0.035",
+            "name": "Mt",
+            "value": "0.035"
+        },
+        {
+            "expr": "30.8",
+            "name": "PL",
+            "value": "30.8"
+        },
+        {
+            "expr": "38",
+            "name": "PW",
+            "value": "38"
+        },
+        {
+            "expr": "SL/2-PL/2",
+            "name": "ML",
+            "value": "15.4"
+        },
+        {
+            "expr": "3.1",
+            "name": "MW",
+            "value": "3.1"
+        },
+        {
+            "expr": "7.7",
+            "name": "InL",
+            "value": "7.7"
+        },
+        {
+            "expr": "0.5",
+            "name": "InW",
+            "value": "0.5"
+        },
+        {
+            "expr": "7.16",
+            "name": "k",
+            "value": "7.16"
+        }
+    ],
+    "version": 1
+}

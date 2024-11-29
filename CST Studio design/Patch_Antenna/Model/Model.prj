@@ -1,0 +1,13 @@
+{
+   "Author": "corsa",
+   "Comment": "",
+   "Last Problem Type": "High Frequency",
+   "Last Solver Type": "HF Time Domain",
+   "Last Solver Type Abb": "t",
+   "Mesh Cells": "1,938,762",
+   "Mesh Type": "Hexahedral",
+   "Modeler Unique ID": "5:antenna patch wifi 2.4ghz.cst?43cf1627a6f6b127522852b8d6472798?13217:numberofparameters=11:port=1>mode=1>zre=50>zim=0:::k?inl?inw?ml?mw?mt?pl?pw?sh?sl?sw",
+   "ProjectVersion": "'# MWS Version: Version 2024.1 - Oct 16 2023 - ACIS 33.0.1 -",
+   "Results": "Time Domain: S-Parameter",
+   "Version": "3"
+}
